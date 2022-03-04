@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace Obadadk\InlineMedia\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class InlineMediaCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'laravel-inline-media';
 
     public $description = 'My command';
 
