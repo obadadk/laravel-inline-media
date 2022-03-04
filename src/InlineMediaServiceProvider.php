@@ -2,9 +2,9 @@
 
 namespace Obadadk\InlineMedia;
 
+use Obadadk\InlineMedia\Commands\InlineMediaCommand;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use Obadadk\InlineMedia\Commands\InlineMediaCommand;
 
 class InlineMediaServiceProvider extends PackageServiceProvider
 {
